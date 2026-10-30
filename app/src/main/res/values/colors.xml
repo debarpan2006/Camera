@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="samsung_yellow">#FFD600</color>
+    <color name="samsung_amber">#FFC107</color>
+    <color name="record_red">#FF2A2A</color>
+    <color name="dark_gray">#222222</color>
+    <color name="surface_translucent">#88000000</color>
+    <color name="pill_background">#4D000000</color>
+    <color name="shutter_inner">#FFFFFFFF</color>
+    <color name="shutter_outer">#4DFFFFFF</color>
+    <color name="shutter_pressed">#DDDDDD</color>
+</resources>
+
